@@ -1,0 +1,22 @@
+{
+  "name": "@umi-block/block",
+  "version": "0.0.1",
+  "description": "123",
+  "main": "src/index.js",
+  "authors": {
+    "name": "frank",
+    "email": ""
+  },
+  "repository": "https://github.com/asd116725/block",
+  "scripts": {
+    "dev": "umi dev"
+  },
+  "dependencies": {
+    "react": ">=16.0.0"
+  },
+  "devDependencies": {
+    "umi": "^2.9.0",
+    "umi-plugin-block-dev": "^2.0.0"
+  },
+  "license": "MIT"
+}
